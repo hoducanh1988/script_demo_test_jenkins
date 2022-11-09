@@ -13,4 +13,5 @@ time.sleep(3)
 
 driver.quit()
 
-print("success")
+assert False
+
