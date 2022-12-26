@@ -11,6 +11,3 @@ search_box.submit()
 time.sleep(3)
 
 driver.quit()
-
-assert False
-
